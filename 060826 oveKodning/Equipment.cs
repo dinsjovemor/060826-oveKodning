@@ -20,7 +20,7 @@ namespace _060826_oveKodning
             ThreadType = threadType;
             NeedleType = needleType;
             MachineType = machineType;
-        })
+        }
 
     }
 }

@@ -32,6 +32,6 @@ namespace _060826_oveKodning
             Country = country;
             PhoneNumber = phoneNumber;
             EmployeeCount = employeeCount;
-        })
+        }
     }
 }

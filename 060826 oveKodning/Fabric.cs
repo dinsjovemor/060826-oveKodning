@@ -23,6 +23,6 @@ namespace _060826_oveKodning
             Pattern = pattern;
             Material = material;
             PurposeTheme = purposeTheme;
-        })
+        }
     }
 }

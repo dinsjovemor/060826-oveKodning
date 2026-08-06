@@ -17,6 +17,6 @@ namespace _060826_oveKodning
         {
             Name = name;
             CustomerId = customerId;
-        })
+        }
     }
 }
